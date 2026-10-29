@@ -1,6 +1,6 @@
 cask "machen" do
-  version "1.3"
-  sha256 "f168cc6799da7b03f38be72beb3d562b4eb161e2bbde17f11ba66be075ce1614"
+  version "1.3.1"
+  sha256 "06dc9ffb4d055fabe0598400f8f509d1a8c7c1ccb3bfd38960ff5b41697dfa1d"
 
   url "https://github.com/bernorieder/machen/releases/download/v#{version}/machen-#{version}.dmg"
   name "machen"
